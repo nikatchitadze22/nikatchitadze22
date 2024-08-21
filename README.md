@@ -1,4 +1,4 @@
-<h1>Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Nikoloz</h1>
+<h1 align="center">Hi 👋, I'm Nikoloz Tchitadze</h1>
 <h3 align="center">Programmer from Georgia</h3>
 img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/focus-animation.gif"
 
