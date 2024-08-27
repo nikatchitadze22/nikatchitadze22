@@ -14,7 +14,9 @@
 
 - 👯 I’m looking to collaborate on **Interest projects**
 
-- 👨‍💻 All of my projects are available at [https://github.com/nikatchitadze22](https://github.com/nikatchitadze22)
+- 👨‍💻 All of my projects are available at [Github](https://github.com/nikatchitadze22)
+
+- ✉️  You can contact me by [Email](mailto:tchitadzenikoloz@gmail.com@gmail.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
