@@ -2,7 +2,7 @@
   Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" alt="Waving hand" width="30px">, I'm Nikoloz Tchitadze
 </h1>
 <h3 align="center">Programmer from Georgia</h3>
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/219923823-bf1ce878-c6b8-4faa-be07-93e6b1006521.gif"
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nikatchitadze22&label=Profile%20views&color=0e75b6&style=flat" alt="nikatchitadze22" /> </p>
 
