@@ -16,7 +16,7 @@
 
 - 👨‍💻 All of my projects are available at [Github](https://github.com/nikatchitadze22)
 
-- ✉️  You can contact me by [Email](mailto:tchitadzenikoloz@gmail.com@gmail.com) and on [Instagram](https://www.instagram.com/_tch.ita_/)
+- ✉️  You can contact me by [Email](https://mail.google.com/mail/u/0/#inbox) and on [Instagram](https://www.instagram.com/_tch.ita_/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
