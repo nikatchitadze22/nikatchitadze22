@@ -12,7 +12,7 @@
 
 - 👯 I’m looking to collaborate on **Interesting projects**
 
-- 👨‍💻 All of my projects are available at [<a href="https://github.com/nikatchitadze22](https://github.com/nikatchitadze22" target="_blank">)
+- 👨‍💻 All of my projects are available at [Github](https://github.com/nikatchitadze22)
 
 - 📫 you can reach me by **tchitadzenikoloz@gmail.com**
 
